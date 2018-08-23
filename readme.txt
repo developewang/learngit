@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 xxx
 Git is a free software.
 yyy
+git tag
